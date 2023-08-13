@@ -1,0 +1,16 @@
+.header-class {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: xx-large;
+    color: peru;
+    background-color: aquamarine;
+}
+
+.recipe-link {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: large;
+    color: peru;
+    background-color: aquamarine;
+    display: block;
+}
